@@ -4,25 +4,46 @@
 *.o
 *.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
-
-# Fortran module files
-*.mod
 
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
+*.pdb
 
 # Executables
 *.exe
 *.out
 *.app
+*.apk
+
+
+# Visual Studio project files
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
+
+# Xcode project files
+*.xcodeproj
+
+# Unreal Directories
+/LeapSpeedBag/Binaries
+/LeapSpeedBag/DerivedDataCache
+/LeapSpeedBag/Intermediate
+/LeapSpeedBag/Saved
+/LeapSpeedBag/Build
+!/LeapSpeedBag/Build/Windows/Application.ico
+/LeapSpeedBag/Plugins/Substance/
+
+Thumbs.db
+
+*.hmap
+*.exp
+*.dat
+*.dep
