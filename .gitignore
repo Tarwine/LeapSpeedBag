@@ -33,13 +33,13 @@
 *.xcodeproj
 
 # Unreal Directories
-/LeapSpeedBag/Binaries
-/LeapSpeedBag/DerivedDataCache
-/LeapSpeedBag/Intermediate
-/LeapSpeedBag/Saved
-/LeapSpeedBag/Build
-!/LeapSpeedBag/Build/Windows/Application.ico
-/LeapSpeedBag/Plugins/Substance/
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Build
+!/Build/Windows/Application.ico
+/Plugins/Substance/
 
 Thumbs.db
 
